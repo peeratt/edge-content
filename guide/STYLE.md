@@ -11,7 +11,7 @@ Edge Management App (edgemanagementapp.com) helps cabinet shops:
 - track edge tape inventory and reorder before running out
 - print labels (Brother QL/TD printers) and scan rolls with QR codes
 
-Link to the signup or pricing page once, near the end. Don't quote prices in posts, because they change.
+Link to the homepage (https://edgemanagementapp.com) once, near the end. Use the homepage, not the signup, trial or pricing page. Don't quote prices in posts, because they change.
 
 ## Voice
 - Australian English (colour, organise, metre, tonne). Use AUD.
@@ -45,3 +45,11 @@ Aim for roughly half the posts to tie directly to edge tape, stock or labelling.
 Put both social captions in the PR description so the owner can read them on the first screen:
 - the Instagram caption
 - the Facebook caption
+
+## Social posts (Canva, added on top of the blog flow)
+The blog flow above stays the same. As an extra step, each post also gets finished Instagram and Facebook graphics made in Canva with AI-generated images, ready to post.
+- Follow the `edge-static-ads` skill, section A: one "Instagram Post (Portrait)" and one "Facebook Post (Landscape)" design, built from the post's social file.
+- Use the EDGE brand kit in Canva for colours, fonts and logo.
+- Use AI-generated, photorealistic workshop imagery. Never leave an empty photo placeholder.
+- Put each Canva link in the PR description, under its caption.
+- If Canva isn't connected in the run, say so in the PR and the summary, and still deliver the blog post as normal.
