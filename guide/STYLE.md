@@ -46,8 +46,9 @@ Put both social captions in the PR description so the owner can read them on the
 - the Instagram caption
 - the Facebook caption
 
-## Social graphics (Canva)
-Every post gets its Instagram and Facebook graphics made in Canva. These are the previews the owner approves. Don't make HTML mock-ups.
-- Follow the `edge-static-ads` skill, section A (blog social posts): one "Instagram Post (Portrait)" and one "Facebook Post (Landscape)" design, built from the post's social file.
+## Social posts (Canva, added on top of the blog flow)
+The blog flow above stays the same. As an extra step, each post also gets finished Instagram and Facebook graphics made in Canva with AI-generated images, ready to post.
+- Follow the `edge-static-ads` skill, section A: one "Instagram Post (Portrait)" and one "Facebook Post (Landscape)" design, built from the post's social file.
+- Use AI-generated, photorealistic workshop imagery. Never leave an empty photo placeholder.
 - Put each Canva link in the PR description, under its caption.
-- If Canva isn't connected in the run, say so in the PR and the summary. Don't make a substitute preview.
+- If Canva isn't connected in the run, say so in the PR and the summary, and still deliver the blog post as normal.
