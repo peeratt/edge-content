@@ -23,6 +23,7 @@ Link to the signup or pricing page once, near the end. Don't quote prices in pos
 - **Never invent statistics, studies, customer names or quotes.** For a number, either use one from `notes/` or frame it as a worked example ("say a shop runs 40 rolls…").
 - **Stay vendor-neutral on machinery.** Don't praise or knock any brand of machine (Biesse, Homag, SCM, etc.). Talk about features and decisions, not brands.
 - Don't give safety-critical instructions as if they were authoritative. Point readers to the manufacturer's manual and SafeWork.
+- **Never use the owner's name** in posts, social captions or anything else that goes to the outside world. Write workshop notes in the business's voice ("we"). If a named reference seems needed, ask first in the pull request.
 
 ## Structure of every post (built for Google AND AI assistants)
 1. **Title**: built around a question or problem the reader would actually search for, under 65 characters.
