@@ -40,3 +40,8 @@ Link to the signup or pricing page once, near the end. Don't quote prices in pos
 4. Machinery and software (general, vendor-neutral)
 
 Aim for roughly half the posts to tie directly to edge tape, stock or labelling.
+
+## Pull request description
+Put both social captions in the PR description so the owner can read them on the first screen:
+- the Instagram caption
+- the Facebook caption
