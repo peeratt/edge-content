@@ -11,7 +11,7 @@ Edge Management App (edgemanagementapp.com) helps cabinet shops:
 - track edge tape inventory and reorder before running out
 - print labels (Brother QL/TD printers) and scan rolls with QR codes
 
-Link to the signup or pricing page once, near the end. Don't quote prices in posts, because they change.
+Link to the homepage (https://edgemanagementapp.com) once, near the end. Use the homepage, not the signup, trial or pricing page. Don't quote prices in posts, because they change.
 
 ## Voice
 - Australian English (colour, organise, metre, tonne). Use AUD.
