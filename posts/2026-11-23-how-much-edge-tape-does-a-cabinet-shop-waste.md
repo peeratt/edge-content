@@ -75,7 +75,7 @@ The gap between what you bought and what went on cabinets is your real waste fig
 
 ## From the workshop
 
-We see the same pattern over and over in cabinet shops: shops guess how much is on a roll, reorder to be safe, then find the roll they already had sitting on the rack. We call it the triple loss: you pay for the duplicate tape, you pay the extra delivery cost, and you pay for the time spent looking for the roll in the first place. None of that is a machine problem. It's an information problem, and the cheapest kind to fix.
+We see the same pattern over and over: shops guess how much is on a roll, reorder to be safe, then find the roll they already had sitting on the rack. We call it the triple loss: you pay for the duplicate tape, you pay the extra delivery cost, and you pay for the time spent looking for the roll in the first place. None of that is a machine problem. It's an information problem, and the cheapest kind to fix.
 
 ## What are the quickest fixes?
 
