@@ -24,6 +24,10 @@ Most shops think their tape waste is the trim coming off the edgebander. In real
 Have a read: https://edgemanagementapp.com/blog/how-much-edge-tape-does-a-cabinet-shop-waste
 
 ## Image idea
+Canva designs (add your photo to the photo area):
+- Instagram: https://canva.link/u2fv1fykcoiftu0
+- Facebook: https://canva.link/pimiyei3v9rrdr2
+
 Film a slow pan along a tape rack showing two or three rolls of the same colour sitting in different spots, then cut to a single labelled roll being scanned with a phone. Alternative still: a bin of edgebander trim next to a sealed duplicate roll, with a caption "Which one's costing you more?"
 
 ## Ad angle (optional)
