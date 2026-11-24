@@ -65,9 +65,9 @@ Weighing is a useful cross-check, particularly on thin tape where a millimetre o
 
 ### A worked example
 
-Say a full 100 m roll weighs 420 g and an empty core weighs 30 g. That's 390 g of tape, or 3.9 g per metre. A part roll of the same tape weighs 210 g. Take off the core and you've got 180 g of tape, which is 180 ÷ 3.9 = about 46 m.
+Say a full 100 m roll weighs 1 kg and an empty core weighs 50 g. That's 950 g of tape, or 9.5 g per metre. A part roll of the same tape weighs 525 g. Take off the core and you've got 475 g of tape, which is 475 ÷ 9.5 = 50 m.
 
-Those weights are only an example. At these weights, a couple of grams either way is half a metre of tape, so a cheap kitchen scale won't cut it.
+Those weights are only an example. At these weights, every 10 g is about a metre of tape, so use a scale that reads to the gram.
 
 ## Which method should your shop use?
 
