@@ -13,6 +13,8 @@ Edge Management App (edgemanagementapp.com) helps cabinet shops:
 
 Link to the signup or pricing page once, near the end. Don't quote prices in posts, because they change.
 
+When a post involves measuring rolls or working out lengths, also link the free roll calculator (https://edgemanagementapp.com/edge-banding-calculator, no account needed) where it fits. This doesn't count as the signup link. For the signup link, use the free trial (https://edgemanagementapp.com/subscriptions?plan=trial) and describe it only as "14-day free trial, no credit card required".
+
 ## Voice
 - Australian English (colour, organise, metre, tonne). Use AUD.
 - Write like an experienced industry rep talking to a shop owner over the bench: plain, direct, a bit of dry humour.
