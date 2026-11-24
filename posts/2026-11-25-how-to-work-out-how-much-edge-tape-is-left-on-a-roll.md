@@ -46,7 +46,9 @@ Say you've got a part roll of 1 mm tape. It measures 250 mm across and the core 
 | × 3.1416 ÷ (4 × 1 mm) | about 44,060 mm |
 | **Tape left on the roll** | **about 44 m** |
 
-Now do the same roll at 400 mm across and you get about 120 m. That's the point: the roll only got 150 mm "thicker", but it holds nearly three times the tape.
+Now do the same roll at 400 mm across and you get about 120 m. The roll only got 150 mm "thicker", but it holds nearly three times the tape.
+
+Don't want to do the maths by hand? Plug your measurements into our [free roll calculator](https://edgemanagementapp.com/edge-banding-calculator). No account needed.
 
 ### The catch: thickness isn't always what the label says
 
@@ -90,11 +92,11 @@ Now check what the job needs. Add up the banded edge length from your cutting li
 - **A set-up allowance** for each colour change and test piece.
 - **A small buffer** for a damaged edge or a re-run.
 
-If the roll's length covers that total with room to spare, run it. If it's close, use the part roll on shorter parts and open a fresh one for the long runs. We covered where the rest of the tape goes in [how much edge tape a cabinet shop really wastes](https://edgemanagementapp.com/blog/how-much-edge-tape-does-a-cabinet-shop-waste).
+If the roll covers that with room to spare, run it. If it's close, use it on shorter parts and open a fresh roll for the long runs. We covered where the rest of the tape goes in [how much edge tape a cabinet shop really wastes](https://edgemanagementapp.com/blog/how-much-edge-tape-does-a-cabinet-shop-waste).
 
 ## From the workshop
 
-Plenty of shops still guess how much tape is left on a roll, and we get why: it's quick, and most of the time it works. But "most of the time" is the problem. Why guess when you can get an exact length and not run short mid-job? The guess only has to be wrong once on a long run of panels to cost more than every minute you'd ever spend measuring.
+Plenty of shops still guess how much tape is left on a roll. It's quick, and most of the time it works. But "most of the time" is the problem. Why guess when you can get an exact length and not run short mid-job? The guess only has to be wrong once on a long run of panels to cost more than every minute you'd ever spend measuring.
 
 ## FAQ
 
@@ -110,4 +112,4 @@ Real rolls aren't wound perfectly tight, and pre-glued tape is thicker than its 
 **How often should we re-measure part rolls?**
 Every time a roll comes off the edgebander and goes back on the rack. That's the moment the length changes, so that's when the record should change too.
 
-If you'd rather skip the maths and get an exact length for every roll, labelled and searchable from your phone, [try Edge Management App](https://edgemanagementapp.com).
+Want every roll's length saved, its rack location recorded and a QR label printed? [Start a 14-day free trial](https://edgemanagementapp.com/subscriptions?plan=trial), no credit card required.
