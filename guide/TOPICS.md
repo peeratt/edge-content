@@ -5,7 +5,7 @@ Claude takes the next unticked topic, ticks it off in the same pull request, and
 ## Edgebanding and materials
 - [x] How much edge tape does a cabinet shop really waste?
 - [x] How to work out how much tape is left on a roll
-- [ ] ABS vs PVC vs melamine edge tape: which should you stock?
+- [x] ABS vs PVC vs melamine edge tape: which should you stock?
 - [ ] How to organise edge tape storage in a small workshop
 - [ ] Why running out of edge tape mid-job costs more than you think
 - [ ] Matching edge tape to board colours: avoiding the wrong-roll mistake
